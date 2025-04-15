@@ -1,4 +1,4 @@
-# WindrealmMC
+# 风绘之境MC[WindrealmMC]
 
 ## 关于我们
 WindrealmMC 是一个致力于打造基于 Minecraft 的纯生存服务器的 GitHub 组织。我们专注于提供稳定流畅的游戏体验，支持 Java 和基岩版互通，旨在为玩家创造一个充满乐趣和挑战的生存环境。
