@@ -5,8 +5,7 @@ WindrealmMC 是一个致力于打造基于 Minecraft 的纯生存服务器的 Gi
 
 ## 项目介绍
 ### 官方网站
-- **仓库**：[WindrealmMC/Official-Website](https://github.com/WindrealmMC/Official-Website)
-- **描述**：包含 WindrealmMC 官方网站的代码和资源。
+- **website**：[www.fhzjmc.top](Https://www.fhzjmc.top)
 
 ### Docs文档
 - **仓库**：[WindrealmMC/Docs](https://github.com/WindrealmMC/Docs)
